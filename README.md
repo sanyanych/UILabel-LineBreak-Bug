@@ -12,7 +12,7 @@ I ran project on Xcode 13.2.1, but issue reproduced already with Xcode 13 and 13
 
 Here below are screenshots of issue:
 
-There is no problem with iOS 15 | There is problem with iOS 15.2
+There is no problem with iOS 15 | There is a problem with iOS 15.2
 :------------------------------:|:-------------------------:
 ![](Images/UILabel_iOS_15.png) | ![](Images/UILabel_iOS_15.2.png)
 
