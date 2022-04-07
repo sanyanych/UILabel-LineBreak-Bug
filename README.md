@@ -4,6 +4,7 @@ This project demonstrates the problem with `.lineBreakMode` of `UILabel` in iOS 
 
 I ran project on Xcode 13.2.1, but issue reproduced already with Xcode 13 and 13.1.
 
+**UPD 2022.04.07:** It looks like the problem has been fixed in iOS 15.4.
 
 ## How to reproduce
 
